@@ -35,7 +35,7 @@
 
 
 ## 📫 Connect With Me
-- LinkedIn: (Add your LinkedIn link)
+- LinkedIn:https://www.linkedin.com/in/ansh-poddar-3a5692325/
 - Email: anshpoddar2004@gmail.com
 
 ---
